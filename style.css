@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    background: #eeeef0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.calculator {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+input,
+select,
+button {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+}
