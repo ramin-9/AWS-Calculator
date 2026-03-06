@@ -103,11 +103,14 @@ Supported operations:
 
 ## Screenshots
 IAM
-!(/iam.png)
+![](IAM.png)
+
 Lambda Function
-!(/lambda.png)
+![](lambda.png)
+
 API Gateway
-!/(api.png)
+![](api.png)
+
 DynamoDB Table
-!(/db.png)
+![](db.png)
 
